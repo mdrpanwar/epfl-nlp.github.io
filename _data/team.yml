@@ -86,6 +86,17 @@
   semantic_scholar:
   github: 
 
+- first_name: Ayush
+  last_name: Tarun
+  role: PhD student
+  img: ayush_tarun.jpg
+  is_alumni: 
+  website: https://ayushkumartarun.github.io
+  twitter: https://x.com/The_Ayush_Tarun
+  google_scholar: https://scholar.google.com/citations?user=QYJGgtsAAAAJ&hl=en
+  semantic_scholar:
+  github: https://github.com/ayushkumartarun
+
 - first_name: Axel
   last_name: Marmet
   role: Master student
